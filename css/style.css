@@ -1,4 +1,3 @@
-h1{
-    color:red;
-    background: green;
+body{
+	background: url(img/fundo.jpg) repeat-x;
 }
